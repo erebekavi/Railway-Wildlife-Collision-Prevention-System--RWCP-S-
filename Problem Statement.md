@@ -22,3 +22,15 @@ presence of humans, animals, or objects on railway tracks in real-time. The syst
 
 The RWCP-S aims to reduce the frequency and severity of wildlife-railway collisions, 
 ensuring safe train operations while protecting human and animal life.
+
+
+
+
+**the novel aspects of your Railway-Wildlife Collision Prevention System (RWCP-S):**
+
+1. **5G connectivity**: The use of 5G connectivity for real-time communication between the IoT device and the main train control center is a novel aspect.
+2. **Predictive analytics for wildlife collisions**: The system's ability to predict the presence of humans, animals, or objects on the tracks and calculate the time required for the train to stop safely is a new application of machine learning and predictive analytics in this domain.
+3. **Edge computing capabilities**: Using edge computing to enable real-time processing of video feeds and machine learning models is a novel approach in this context.
+
+These aspects make your system distinct from existing wildlife detection systems, 
+railway safety solutions, and predictive maintenance applications for railways.
