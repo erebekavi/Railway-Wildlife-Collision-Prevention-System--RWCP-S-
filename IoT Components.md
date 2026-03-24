@@ -14,7 +14,7 @@
 |**BH1750**|Light (Lux)|**0x23**|0x23 or 0x5C|
 |**TSL2561**|Infrared/Visible|**0x39**|0x29, 0x39, or 0x49|
 
-for we use 12V lithium phosphate battery rechargeable 
+for this we use 12V lithium phosphate rechargeable battery pack including battery management system (BMS) 
 
 Buck Converter 24V/12V to 5V 5A Power Module DC-DC XY-3606 Power Converter
 
