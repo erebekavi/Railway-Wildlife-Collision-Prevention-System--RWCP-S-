@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "IoT Components"
             }
+          },
+          {
+            "id": "e4caf10765e8b3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Requirements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Software Requirements"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,9 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7771e8f4d621b989",
+  "active": "e4caf10765e8b3d9",
   "lastOpenFiles": [
     "Problem Statement.md",
-    "IoT Components.md"
+    "Software Requirements.md",
+    "IoT Components.md",
+    "Software Requirements"
   ]
 }
