@@ -8,11 +8,11 @@
 
 **Required Sensors:**
 
-|Sensor|Function|Default I2C Address|Address Range (Configurable)|
-|---|---|---|---|
-|**BME280**|Temp/Hum/Pressure|**0x77** (or 0x76)|0x76 to 0x77|
-|**BH1750**|Light (Lux)|**0x23**|0x23 or 0x5C|
-|**TSL2561**|Infrared/Visible|**0x39**|0x29, 0x39, or 0x49|
+| Sensor      | Function          | Default I2C Address | Address Range (Configurable) |
+| ----------- | ----------------- | ------------------- | ---------------------------- |
+| **BME280**  | Temp/Hum/Pressure | **0x77** (or 0x76)  | 0x76 to 0x77                 |
+| **BH1750**  | Light (Lux)       | **0x23**            | 0x23 or 0x5C                 |
+| **TSL2561** | Infrared/Visible  | **0x39**            | 0x29, 0x39, or 0x49          |
 
 for this we use 12V lithium phosphate rechargeable battery pack including battery management system (BMS) 
 
