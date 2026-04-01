@@ -34,3 +34,10 @@ ensuring safe train operations while protecting human and animal life.
 
 These aspects make your system distinct from existing wildlife detection systems, 
 railway safety solutions, and predictive maintenance applications for railways.
+
+
+Path:
+[[IoT Components]]
+[[Tech Stack]]
+[[Dataset Requirements]]
+[[Work Flow.canvas]]
