@@ -30,20 +30,14 @@
 
 ## 5. AI / Machine Learning
 
-- **TensorFlow**
-    - Training deep learning models
+- **TensorFlow lite**
 - **Scikit-learn**
     - Data preprocessing
     - Feature engineering
 
 ## 6. AI Models & Architectures
 
-- CNN (Convolutional Neural Network)
-    - Object detection (humans, animals, obstacles)
-- LSTM (Long Short-Term Memory)
-    - Time prediction (movement, behavior)
-- Hybrid CNN-LSTM
-    - Combined spatial and temporal analysis
+- YOLO nano
 
 ## 7. Edge Computing & Deployment
 
@@ -77,7 +71,6 @@
 - Django (Python) → Backend system
 - SQLite → Database (prototype)
 - OpenCV → Computer vision
-- TensorFlow → Model training
 - TensorFlow Lite → Edge deployment
-- CNN, LSTM, CNN-LSTM → AI models
+- YOLO nano → AI models
 - 5G + APIs → Real-time communication

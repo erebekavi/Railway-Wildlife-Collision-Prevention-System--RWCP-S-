@@ -1,4 +1,4 @@
-- **Camera Module** : The camera module will capture images or videos of the railway track and surrounding areas to detect wildlife presence.
+- **Camera Module** (stereo camera) : The stereo camera module will videos of the railway track and surrounding areas to detect wildlife presence.
 
 - **5G Module** (RxTxSemi 5G USB Modem Kit): The 5G module enables real-time communication between the IoT device and the main train control center, allowing for fast data transfer and decision-making.
 
@@ -14,7 +14,7 @@
 | **BH1750**  | Light (Lux)       | **0x23**            | 0x23 or 0x5C                 |
 | **TSL2561** | Infrared/Visible  | **0x39**            | 0x29, 0x39, or 0x49          |
 
-for this we use 12V lithium phosphate rechargeable battery pack including battery management system (BMS) 
+for this we use 12V lithium phosphate 6000 mah rechargeable battery pack including battery management system (BMS) 
 
 Buck Converter 24V/12V to 5V 5A Power Module DC-DC XY-3606 Power Converter
 

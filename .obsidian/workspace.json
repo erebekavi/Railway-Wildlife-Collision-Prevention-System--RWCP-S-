@@ -4,94 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "26d9171e82a0e12d",
+        "id": "22d425a5c7d374f2",
         "type": "tabs",
         "children": [
           {
-            "id": "daff7c02d4e76aa4",
+            "id": "0eb92fdd172b3a7d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Work Flow.canvas",
-                "viewState": {
-                  "x": -28.06593888886505,
-                  "y": -402.4745759265357,
-                  "zoom": -1.6
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Work Flow"
-            }
-          },
-          {
-            "id": "902df6d0b59c60f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Website Work-Flow.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Website Work-Flow"
-            }
-          },
-          {
-            "id": "bf0aa396c9aaf6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IoT Components.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IoT Components"
-            }
-          },
-          {
-            "id": "b08a6bd72f0b3224",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataset Requirements.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dataset Requirements"
-            }
-          },
-          {
-            "id": "a4794f793bf5d690",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problem Statement.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Problem Statement"
-            }
-          },
-          {
-            "id": "caefeb1d7c21807c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tech Stack.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tech Stack"
+              "title": "New tab"
             }
           }
         ]
@@ -256,15 +179,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "daff7c02d4e76aa4",
+  "active": "0eb92fdd172b3a7d",
   "lastOpenFiles": [
-    "IoT Components.md",
-    "Website Work-Flow.md",
+    "Tech Stack.md",
+    "IOT Components.md",
+    "Dataset Requirements.md",
     "Work Flow.canvas",
     "Problem Statement.md",
-    "Tech Stack.md",
+    "Website Work-Flow.md",
     "Untitled.base",
-    "Dataset Requirements.md",
     "1. Front-end.md",
     "Pasted image 20260327004120.png",
     "sample img/data4.jpeg",

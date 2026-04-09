@@ -15,8 +15,8 @@ presence of humans, animals, or objects on railway tracks in real-time. The syst
 
 
 **Requirements:**
-* IoT device with camera, 5G connectivity, and edge computing capabilities
-* Machine learning algorithms for object detection and classification
+* IoT device with stereo camera, 5G connectivity, and edge computing capabilities
+* YOLO nano model for object detection and classification
 * Integration with existing rail infrastructure and systems (e.g., signaling, traffic management)
 * Real-time data processing and analytics to support predictive modeling and decision-making
 
@@ -37,7 +37,7 @@ railway safety solutions, and predictive maintenance applications for railways.
 
 
 Path:
-[[IoT Components]]
+[[IOT Components]]
 [[Tech Stack]]
 [[Dataset Requirements]]
 [[Work Flow.canvas]]
