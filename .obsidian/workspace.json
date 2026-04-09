@@ -11,17 +11,14 @@
             "id": "daff7c02d4e76aa4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Work Flow.canvas",
-                "viewState": {
-                  "x": -28.06593888886505,
-                  "y": -402.4745759265357,
-                  "zoom": -1.6
-                }
+                "file": "Tech Stack.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Work Flow"
+              "icon": "lucide-file",
+              "title": "Tech Stack"
             }
           },
           {
@@ -56,14 +53,17 @@
             "id": "b08a6bd72f0b3224",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Dataset Requirements.md",
-                "mode": "preview",
-                "source": false
+                "file": "Work Flow.canvas",
+                "viewState": {
+                  "x": -39.47505330490418,
+                  "y": 25.91795238534526,
+                  "zoom": -1.447694792707777
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dataset Requirements"
+              "icon": "lucide-layout-dashboard",
+              "title": "Work Flow"
             }
           },
           {
@@ -94,7 +94,8 @@
               "title": "Tech Stack"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6931565e02e2fa1",
@@ -256,15 +258,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "daff7c02d4e76aa4",
+  "active": "bf0aa396c9aaf6f0",
   "lastOpenFiles": [
-    "IoT Components.md",
-    "Website Work-Flow.md",
-    "Work Flow.canvas",
     "Problem Statement.md",
+    "Work Flow.canvas",
+    "IoT Components.md",
     "Tech Stack.md",
-    "Untitled.base",
+    "Website Work-Flow.md",
     "Dataset Requirements.md",
+    "Untitled.base",
     "1. Front-end.md",
     "Pasted image 20260327004120.png",
     "sample img/data4.jpeg",
